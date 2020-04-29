@@ -4,11 +4,11 @@
 
 Code 401 Lab 13 Bearer Authorization
 
-### Author: Student/Group Name
+### Author: Sue Duclos
 
 ### Links and Resources
 
-- [submission PR](http://xyz.com)
+- [submission PR](https://github.com/sueduclos-401-advanced-javascript/lab-13/pull/1)
 - [ci/cd](http://xyz.com) (GitHub Actions)
 - [back-end server url](http://xyz.com) (when applicable)
 - [front-end application](http://xyz.com) (when applicable)
@@ -17,7 +17,7 @@ Code 401 Lab 13 Bearer Authorization
 
 #### `.env` requirements
 
-- `PORT` - Port Number
+- `PORT` - 27017
 - `MONGODB_URI` - URL to the running mongo instance/db
 
 #### How to initialize/run your application
@@ -39,4 +39,4 @@ Code 401 Lab 13 Bearer Authorization
 
 #### UML
 
-Link to an image of the UML for your application and response to events
+[UML Link](http://xyz.com)
